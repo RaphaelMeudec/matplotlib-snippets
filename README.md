@@ -19,3 +19,7 @@ This repository contains a set of matplotlib operations that are not trivial.
 ### Scale
 
 - Histogram with bins adapted to log scale -- [code](snippets/histogram_log_scale.py) -- [figure](figures/histogram_log_scale.png)
+
+### Legend
+
+- Legend outside of the plot -- [code](snippets/legend_outside.py) -- [figure](figures/legend_outside.png)
